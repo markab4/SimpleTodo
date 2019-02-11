@@ -22,7 +22,7 @@ Here's a walkthrough of implemented user stories:
 
 <img src='walkthrough.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
-GIF created with [DU Records](https://play.google.com/store/apps/details?id=com.duapps.recorder&hl=en_US).
+GIF created with [DU Recorder](https://play.google.com/store/apps/details?id=com.duapps.recorder&hl=en_US).
 
 
 ## License
